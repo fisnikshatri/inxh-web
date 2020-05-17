@@ -8,9 +8,6 @@ Tema: Eshte qe te krijohet nje website interkativ n mes njerzve qe deshirojne te
        qe te hyn ne website te krijojne nje user, dhe nepermes atij useri te kene mundesine e blerjes se tiketes online,
 	kjo te behet per arsye qe te mos behen pritje te gjata para hyrjes ne nje club nate.
 
-Po ashtu nuk e kam vendosur ne github per arsye se pasi qe jam duke punuar individualisht projektin, vendosa qe te mos e 
-perdor kesaj radhe, nese eshte required ju lutem vetem me informoni dhe do ta perdore github.
-
 Faleminderit per kohen tuaj
 Me respekt
 Fisnik Shatri

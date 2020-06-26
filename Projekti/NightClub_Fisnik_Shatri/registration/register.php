@@ -17,22 +17,22 @@
 
             <div>
                 <label for="username" >Username : </label>
-                <input type="text" name="username">
+                <input type="text" name="username" required>
             </div>
 
             <div>
                 <label for="email" >Email : </label>
-                <input type="email" name="email">
+                <input type="email" name="email" required>
             </div>
 
             <div>
                 <label for="password" >Password : </label>
-                <input type="password" name="password_1">
+                <input type="password" name="password_1" required>
             </div>
 
             <div>
                 <label for="password" >Password Confirmation : </label>
-                <input type="password" name="password_2">
+                <input type="password" name="password_2" required>
             </div>
 
             <button type="submit" name="reg_user"> Submit </button>

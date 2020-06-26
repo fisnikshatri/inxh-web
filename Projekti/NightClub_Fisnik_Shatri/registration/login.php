@@ -17,12 +17,12 @@
 
             <div>
                 <label for="username" >Username : </label>
-                <input type="text" name="username">
+                <input type="text" name="username" required>
             </div>
 
             <div>
                 <label for="password" >Password : </label>
-                <input type="password" name="password_1">
+                <input type="password" name="password_1" required>
             </div>
 
             <button type="submit" name="login_user"> Submit </button>
